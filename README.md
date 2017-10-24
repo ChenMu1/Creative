@@ -14,3 +14,9 @@ Subtle on page scroll reveal animations
 Full page image header banner with vertically centered content
 Unique, modern design
 Fully functional portfolio image grid with hover effects and working lightbox gallery
+
+## Download and Usage:
+
+To begin using or viewing this template, following the steps to get started:
+* [Fork, Clone, or Download on GitHub](https://github.com/ChenMu1/Creative)
+* Run the index page in the broswer
