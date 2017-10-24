@@ -1,4 +1,4 @@
-# Main page template for the Warehouse
+# Self-made main page template for the Warehouse
 
 ## Description:
 Maine page(the Warehouse) for creatives, small businesses, and other multipurpose uses. 
