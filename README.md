@@ -1,7 +1,7 @@
 # Creative
 
 ## Description:
-Maine page Bootstrap theme for creatives, small businesses, and other multipurpose uses. 
+Maine page(the Warehouse) for creatives, small businesses, and other multipurpose uses. 
 It includes a number of rich features and plugins that you can use as a great boilerplate for your next Bootstrap based project!
 
 ## Features:
