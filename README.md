@@ -1,7 +1,7 @@
 # Self-made main page template for the Warehouse
 
 ## Description:
-Maine page(the Warehouse) for creatives, small businesses, and other multipurpose uses. 
+Main page(the Warehouse) for creatives, small businesses, and other multipurpose uses. 
 It includes a number of rich features and plugins that you can use as a great boilerplate for your next Bootstrap based project!
 
 ## Features:
